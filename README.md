@@ -31,7 +31,7 @@ Set up MongoDB:
 
 ### Contact Model
 
-javascript
+```javascript
 const mongoose = require('mongoose');
 
 const contactSchema = new mongoose.Schema({
